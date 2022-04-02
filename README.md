@@ -44,7 +44,7 @@ jsonify is a function in Flask's flask. json module. jsonify converts data to Ja
 
 **test.py**
 
-```pycon
+```py
 from flask import Flask, request, jsonify
 
 # create instance of Flask object
